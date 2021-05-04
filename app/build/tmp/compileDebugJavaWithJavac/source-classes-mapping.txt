@@ -1,0 +1,8 @@
+com/example/iplpredict/BuildConfig.java
+ com.example.iplpredict.BuildConfig
+com/example/iplpredict/MainActivity.java
+ com.example.iplpredict.MainActivity
+ com.example.iplpredict.MainActivity$1
+com/example/iplpredict/splash.java
+ com.example.iplpredict.splash
+ com.example.iplpredict.splash$1
